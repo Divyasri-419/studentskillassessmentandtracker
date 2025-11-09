@@ -52,7 +52,7 @@ student-skill-tracker/
 ---
 ⚙️ Installation
 1. Clone the repository
-git clone https://github.com/yourusername/student-skill-tracker.git
+git clone https://github.com/bodasingidivyasri/student-skill-tracker.git
 cd student-skill-tracker
 2. Install dependencies
 pip install -r requirements.txt
